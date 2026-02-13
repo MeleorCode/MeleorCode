@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <i>Turning complex problems into elegant digital solutions.</i>
+  <i>Превращение сложных проблем в элегантные цифровые решения..</i>
 </p>
