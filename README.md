@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 - 🔧 Работаю над высоконагруженными системами
 - 🌱 Изучаю новые технологии и лучшие практики
 
+## 📊 Активность
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MeleorCode&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeleorCode&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MeleorCode&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
