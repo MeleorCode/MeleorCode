@@ -39,9 +39,7 @@
 
 ## 📫 Связь
 
-<p align="center">
-  <a href="https://t.me/MeleorX">Telegram</a>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-@MeleorX-2CA5E0?logo=telegram&logoColor=white)](https://t.me/MeleorX)
 
 ---
 
