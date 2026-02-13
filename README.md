@@ -1,4 +1,4 @@
-<h1 align="center">Meleor</h1>
+<h1 align="center">MeleorCode</h1>
 <p align="center">
   <b>Digital Engineer • Full-stack Developer</b>
 </p>
