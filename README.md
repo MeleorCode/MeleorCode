@@ -1,46 +1,50 @@
-## Hi there 👋
-
-<!--
-**MeleorCode/MeleorCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on high-performance web applications and digital platforms
-- 🌱 I'm currently learning advanced system architecture and optimization techniques
-- 👯 I'm looking to collaborate on interesting full-stack projects
-- 🤔 I'm looking for help with complex system design challenges
-- 💬 Ask me about React, Next.js, TypeScript, and system architecture
-- 📫 How to reach me: https://t.me/MeleorX
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I turn complex problems into elegant solutions
--->
-
-### Digital Engineer & Full-stack Developer
-
-Разрабатываю функциональные цифровые продукты, превращая идеи в готовые решения. Сфокусирован на качестве кода и создании продуктов, которые приносят результат.
-
----
-
-- 🛠 **Что я делаю:** Создаю архитектуру и интерфейсы для веб-сервисов и высоконагруженных систем.
-- 🚀 **Приоритеты:** Чистый код, производительность и надежность.
-- 💬 **Связь:** [Telegram](https://t.me/MeleorX)
-
----
-
-### 💻 Стэк технологий
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
-**Backend:** Node.js, Python, PostgreSQL  
-**Tools:** Git, Docker, Vercel, Linux
-
----
-
-### 📊 Активность
-- 📈 Постоянно развиваюсь в Full-stack разработке
-- 🔧 Работаю над высоконагруженными системами
-- 🌱 Изучаю новые технологии и лучшие практики
-
+<h1 align="center">Meleor</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Digital+Engineer;Building+Scalable+Products&center=true&width=500&height=45">
+  <b>Digital Engineer • Full-stack Developer</b>
 </p>
 
+<p align="center">
+  Разрабатываю функциональные цифровые продукты, превращая идеи в масштабируемые решения.
+  <br/>
+  Фокус на архитектуре, производительности и качестве кода.
+</p>
 
+---
+
+## 🚀 О себе
+
+- 🛠 Проектирую и разрабатываю веб-сервисы и цифровые платформы  
+- ⚡ Создаю высокопроизводительные и масштабируемые системы  
+- 🧩 Строю чистую архитектуру и продуманный UI  
+- 📚 Постоянно развиваюсь в области system design  
+
+---
+
+## ⚙️ Технологии
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,python,postgres,docker,git,linux,vercel" />
+</p>
+
+---
+
+## 🎯 Фокус
+
+- High-performance web applications  
+- Clean architecture  
+- Scalable backend systems  
+- Thoughtful UI/UX  
+
+---
+
+## 📫 Связь
+
+<p align="center">
+  <a href="https://t.me/MeleorX">Telegram</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Turning complex problems into elegant digital solutions.</i>
+</p>
