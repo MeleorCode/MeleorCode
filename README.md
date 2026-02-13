@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 - 📈 Постоянно развиваюсь в Full-stack разработке
 - 🔧 Работаю над высоконагруженными системами
 - 🌱 Изучаю новые технологии и лучшие практики
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeleorCode&show_icons=true&theme=tokyonight)
