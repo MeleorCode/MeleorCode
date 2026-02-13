@@ -39,10 +39,8 @@ Here are some ideas to get you started:
 - 🔧 Работаю над высоконагруженными системами
 - 🌱 Изучаю новые технологии и лучшие практики
 
-## 📊 Активность
-
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeleorCode&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MeleorCode&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Digital+Engineer;Building+Scalable+Products&center=true&width=500&height=45">
 </p>
+
 
