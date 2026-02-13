@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeleorCode&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeleorCode&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeleorCode&layout=compact&theme=tokyonight)
