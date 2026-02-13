@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 - 🌱 Изучаю новые технологии и лучшие практики
 
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeleorCode&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeleorCode&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeleorCode&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeleorCode&layout=compact&theme=tokyonight" />
+</p>
